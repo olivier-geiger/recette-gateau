@@ -174,7 +174,7 @@ table.preparation tr {
 /* pour ordinateur*/
 @media only screen and (min-width: 768px){
     div.contenu {
-        min-width: 18em;
+        min-width: 12em;
         margin: 12em 30% 5.0625em 30%;
         padding: 0px 1.875em 1.875em 1.875em;  
 
@@ -208,7 +208,7 @@ table.preparation tr {
 }  
 @media only screen and (min-width: 900px){
     div.contenu {
-        margin-top:18em;
+        margin-top:12em;
         margin-left: auto;
         margin-right: auto;
         width: 800px;
